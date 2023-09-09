@@ -21,7 +21,7 @@ alphabets.
 Task:
 
 train.py
-1. Add one more model apart from the one used(any machine
+1. Add one more model apart from the one used (any machine
 learning model of your choice) in the train.py file and save it. 
 2. Modify the inference.py file to display the output of the above model. 
 3. Build the docker image of the final application and run it and submit the

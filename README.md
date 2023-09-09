@@ -5,9 +5,13 @@ Link:
 https://towardsdatascience.com/build-and-run-a-docker-container-for-your-machine-learning-model-60209c2d7a7f
 
 You need the following files:
+
 ● Dockerfile
+
 ● Train.py
+
 ● Inference.py
+
 
 This is the EEG brainwave data that has been processed using statistical extraction.
 There are totally 1300 rows and 162 columns in the train dataset. The feature Letter is

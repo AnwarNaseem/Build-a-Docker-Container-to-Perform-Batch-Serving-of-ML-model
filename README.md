@@ -30,7 +30,7 @@ a. Build the Docker File
 b. Run the docker container
 c. Save the screenshot of the output and submit it.
 
-============================================================================
+=====================================================================
 
 Command to build the docker image in bash terminal: 
 

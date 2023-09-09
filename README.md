@@ -29,3 +29,13 @@ screenshot of the output.
 a. Build the Docker File
 b. Run the docker container
 c. Save the screenshot of the output and submit it.
+
+============================================================================
+
+Command to build the docker image in bash terminal: 
+
+docker buildx build -t docker-ml-model -f Dockerfile .
+
+docker run docker-ml-model python3 inference.py
+
+=====================================================================
